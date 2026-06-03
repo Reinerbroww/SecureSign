@@ -1,0 +1,13 @@
+Dokumen Rahasia - Sistem Kriptografi UAS
+========================================
+Nama    : Mahasiswa Kriptografi
+NIM     : 123456789
+Mata Kuliah : Keamanan Informasi
+
+Isi Dokumen:
+Ini adalah plaintext yang akan digunakan sebagai bahan uji
+untuk proses enkripsi dan dekripsi menggunakan algoritma
+AES, RSA, serta penandatanganan digital menggunakan DSA.
+
+Pesan ini bersifat rahasia dan hanya boleh dibaca oleh pihak
+yang memiliki kunci yang sah untuk mendekripsinya.
