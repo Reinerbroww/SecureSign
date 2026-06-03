@@ -223,7 +223,7 @@ Ufhq+QQFoqbQoI+fQl/KRl+Q+Jt...
 
 ## 👨‍💻 Author
 
-> Dibuat untuk memenuhi tugas **UAS Mata Kuliah Kriptografi / Keamanan Informasi**
+> Reinnher Sakunab
 
 ---
 
